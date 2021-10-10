@@ -1,3 +1,4 @@
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1621036368/39101/namaste.gif?1621036368" width="30"/> Hey! Namaskaara.</h1>
 
 
@@ -39,6 +40,12 @@ Currently entering the Blockchain world. </p>
     </tr>
   </tbody>
 </table>
+
+
+<h3> Few more things about me. </h3>
+
+ - Fuel Talk - [One Platform For All Language Fuel Translations](https://twitter.com/fuelproject/status/781942155166134272/photo/1)
+ - In news: [Hindu](https://www.thehindu.com/news/national/karnataka/vachana-site-gets-more-than-5-lakh-hits/article5733383.ece)  [Prajavani](https://www.prajavani.net/article/%E0%B2%85%E0%B2%A8%E0%B2%BF%E0%B2%B0%E0%B3%8D%E0%B2%B5%E0%B2%9A%E0%B2%A8-%E0%B2%87-%E0%B2%A8%E0%B2%BF%E0%B2%B0%E0%B3%8D%E0%B2%B5%E0%B2%9A%E0%B2%A8) [ET](https://economictimes.indiatimes.com/magazines/panache/now-read-vachanas-online/articleshow/45611801.cms) [wikimedia](https://diff.wikimedia.org/2014/03/12/11th-century-kannada-literature-to-enrich-wikisource/) 
 
 <h3> Find me </3>
 
