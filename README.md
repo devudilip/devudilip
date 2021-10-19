@@ -13,7 +13,7 @@ Currently entering the Blockchain world. </p>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 </p>
-<h3> Few of my open source contributions.</h3>
+<h3> About me and my contributions.</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -41,8 +41,6 @@ Currently entering the Blockchain world. </p>
   </tbody>
 </table>
 
-
-<h3> Few more things about me and my contributions. </h3>
 
  - Fuel Talk - [One Platform For All Language Fuel Translations](https://twitter.com/fuelproject/status/781942155166134272/photo/1)
  - In news: [Hindu](https://www.thehindu.com/news/national/karnataka/vachana-site-gets-more-than-5-lakh-hits/article5733383.ece),  [Prajavani](https://www.prajavani.net/article/%E0%B2%85%E0%B2%A8%E0%B2%BF%E0%B2%B0%E0%B3%8D%E0%B2%B5%E0%B2%9A%E0%B2%A8-%E0%B2%87-%E0%B2%A8%E0%B2%BF%E0%B2%B0%E0%B3%8D%E0%B2%B5%E0%B2%9A%E0%B2%A8), [ET](https://economictimes.indiatimes.com/magazines/panache/now-read-vachanas-online/articleshow/45611801.cms), [wikimedia](https://diff.wikimedia.org/2014/03/12/11th-century-kannada-literature-to-enrich-wikisource/) 
