@@ -18,8 +18,8 @@ Currently entering the Blockchain world. </p>
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Project </b></td>
-      <td><b> Weblink </b></td>
       <td><b> Repolink </b></td>
+      <td><b>  Weblink </b></td>
     </tr>
   </thead>
   <tbody>
