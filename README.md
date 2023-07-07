@@ -3,7 +3,7 @@
 
 
 <p>Welcome to my page! </br> I'm Devaraj(Devu), Fullstack developer from <b>Bengaluru, India</b>.
-Currently entering the Blockchain world. </p>
+Into the Blockchain. </p>
 
 <h3>Things i can understand </h3>
 <p>
