@@ -2,7 +2,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1621036368/39101/namaste.gif?1621036368" width="30"/> Hey! Namaskaara.</h1>
 
 
-<p>Welcome to my page! </br> I'm Devaraj(Devu), Fullstack developer from <b>Bengaluru, India</b>.
+<p>Welcome to my page! </br> I'm Devaraj(Devu), Fullstack developer from Bengaluru, India.
 Into the Blockchain. </p>
 
 <h3>Things i can understand </h3>
@@ -12,6 +12,8 @@ Into the Blockchain. </p>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+  <code><img height="20" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png"></code>
+  <code><img height="20" src="https://ethereum.org/static/6b935ac0e6194247347855dc3d328e83/81d9f/eth-diamond-black.webp"></code>
 </p>
 <h3> About me and my contributions.</h3>
 <table>
@@ -47,5 +49,4 @@ Into the Blockchain. </p>
 
 <h3> Find me </3>
 
-[![Twitter: devudilip](https://img.shields.io/twitter/follow/devudilip?style=social)](https://twitter.com/devudilip)  [![Linkedin: devudilip](https://img.shields.io/badge/-devudilip-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devudilip/)](https://www.linkedin.com/in/devudilip/)  [![GitHub devudilip](https://img.shields.io/github/followers/devudilip?label=follow&style=social)](https://github.com/devudilip) [stackoverflow](https://stackoverflow.com/users/955134/devudilip)
-
+[![Twitter: devudilip](https://img.shields.io/twitter/follow/devudilip?style=social)](https://twitter.com/devudilip)  [![Linkedin: devudilip](https://img.shields.io/badge/-devudilip-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devudilip/)](https://www.linkedin.com/in/devudilip/)  [![GitHub devudilip](https://img.shields.io/github/followers/devudilip?label=follow&style=social)](https://github.com/devudilip) 
