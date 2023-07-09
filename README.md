@@ -2,7 +2,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1621036368/39101/namaste.gif?1621036368" width="30"/> Hey! Namaskaara.</h1>
 
 
-<p>Welcome to my page! </br> I'm Devaraj(Devu), Fullstack developer from Bengaluru, India.
+<p>Welcome to my page! </br> I'm Devaraj(Devu), An Engineer from Bengaluru, India.
 Into the Blockchain. </p>
 
 <h3>Things i can understand </h3>
