@@ -8,11 +8,7 @@
 
 ## 🚀 About Me
 
-I am a Software Engineer from Bengaluru, India, with over **14 years of experience** in software engineering. My journey includes:
-- **Founder of EtherScale** – Building scalable, decentralized blockchain solutions.
-- **Former Head of Engineering at Frontier** – Led pioneering Web3 engineering efforts.
-- **Co-founder of Revelation Software Labs** – Contributed to open-source and research projects.
-- **Full Stack Engineer at Tesco Bengaluru** – Gained expertise in scalable systems.
+I am a Software Engineer from Bengaluru, India, with over **14 years of experience** in software engineering.
 
 I specialize in **Blockchain, Web3, Decentralized Applications, and AI** and am currently diving deeper into **Move, Rust, and AI-driven technologies**.
 
