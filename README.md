@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey! Namaskaara, I'm Devaraj (Devu)</h1>
 
 <p align="center">
-  Founder & Engineer | Blockchain | AI | Web3 | Open Source Contributor
+  Engineer | Blockchain | AI | CoFounder |Open Source Contributor
 </p>
 
 ---
