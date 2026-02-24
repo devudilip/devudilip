@@ -1,89 +1,141 @@
-<h1 align="center">👋 Hey! Namaskaara, I'm Devaraj (Devu)</h1>
+<h1 align="center"> 👋 Hello Namaskaara, I am Devaraj K (Devu)</h1>
 
 <p align="center">
-  Engineer | Blockchain | AI | CoFounder |Open Source Contributor
+Principal Engineer | Blockchain/web3 Infrastructure | AI Agent Architect | Distributed Systems
+</p>
+
+<p align="center">
+Building Protocol-Level Systems • Designing Agentic Architectures • Scaling Engineering Teams
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I am a Software Engineer from Bengaluru, India, with over **14 years of experience** in software engineering.
+I’m a Technology Leader with **14+ years of experience** building scalable backend systems, distributed architectures, and blockchain infrastructure.
 
-I specialize in **Blockchain, Web3, Decentralized Applications, and AI** and am currently diving deeper into **Move, Rust, and AI-driven technologies**.
+Currently:
+-  Technology Lead at SnowBall Finance  
+-  Building production AI agents 
+-  Designing custom skills, orchestration layers & execution pipelines  
+-  Co-Founder (2023–2025) at EtherScale – Rollup-as-a-Service Infra  
+-  Cosmos SDK exposure, Experience on Optimistic Rollups 
+-  Former Engineering Manager
 
----
+I work at the intersection of:
 
-## 🛠️ Tech Stack & Expertise
-
-<p>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/ruby/ruby.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/ethereum/ethereum.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png"></code>
-  <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Move_logo.svg"></code>
-</p>
+- Agentic Systems  
+- Blockchain Infrastructure  
+- Distributed Systems  
+- Identity + On-chain Data  
+- AI-driven Automation  
 
 ---
 
-## 🏆 Open Source Contributions
+## 🤖 AI Agent Engineering (Current Focus)
 
-<table>
-  <thead>
-    <tr>
-      <th>📌 Project</th>
-      <th>🔗 Repo</th>
-      <th>🌍 Live Demo</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Vachana - Research Tool</td>
-      <td><a href="https://github.com/sanchaya/vachanasanchaya">Vachana Sanchaya</a></td>
-      <td><a href="https://vachana.sanchaya.net/">Live</a></td>
-    </tr>
-    <tr>
-      <td>Samooha - Crowd Sourcing Tool</td>
-      <td><a href="https://github.com/sanchaya/samoohasanchaya">Samooha</a></td>
-      <td><a href="https://samooha.sanchaya.net/">Live</a></td>
-    </tr>
-    <tr>
-      <td>Pustaka - Free Books & Wikipedia Contributions</td>
-      <td><a href="https://github.com/sanchaya/pustakasanchaya">Pustaka</a></td>
-      <td><a href="https://pustaka.sanchaya.net/">Live</a></td>
-    </tr>
-  </tbody>
-</table>
+I design and deploy AI bots.
+
+Focus Areas:
+
+- Exploring AI world(Lot to try)
+- Agent skill orchestration  
+- Tool execution frameworks  
+- Multi-step reasoning pipelines  
+- Context engineering & memory systems  
+- Identity-aware AI agents  
+- AI + Blockchain integrations  
+- Production-grade deployment  
+
+Moving from:
+Prompt Engineering ➝ Agent Architecture Engineering
 
 ---
 
-## 📰 Featured In
+## 🔗 Blockchain & Protocol Engineering
 
-- [Fuel Talk](https://twitter.com/fuelproject/status/781942155166134272/photo/1) - One Platform for All Language Fuel Translations
+- Rollup-as-a-Service platform architecture  
+- Arbitrum Orbit exploration   
+- Cosmos SDK exposure  
+- Validator infrastructure  
+- Modular blockchain architecture  
+- Multi-chain identity-based dApps  
+
+I focus on infrastructure that enables others to build.
+
+---
+
+## ⚙️ Distributed Systems & Architecture
+
+- High-availability backend systems  
+- Event-driven architectures  
+- Observability & instrumentation  
+- Enterprise-grade metrics  
+- Performance optimisation  
+- AWS cloud-native deployments  
+- CI/CD pipelines  
+
+---
+
+## Open Source & Public Impact
+
+| 📌 Project | 🔗 Repository | 🌍 Live |
+|------------|---------------|---------|
+| Vachana – Research Tool | https://github.com/sanchaya/vachanasanchaya | https://vachana.sanchaya.net/ |
+| Samooha – Crowd Sourcing Tool | https://github.com/sanchaya/samoohasanchaya | https://samooha.sanchaya.net/ |
+| Pustaka – Free Books & Wiki Contributions | https://github.com/sanchaya/pustakasanchaya | https://pustaka.sanchaya.net/ |
+
+Contributed to Blockchain Documentations and was involved in discussions(Focused on Rollups )
+
+### 📰 Featured In
+
+- [Neo_Blockchain Panel Discussion](https://twitter.com/fuelproject/status/781942155166134272/photo/1)
+- [Fuel Talk](https://twitter.com/fuelproject/status/781942155166134272/photo/1)
 - [The Hindu](https://www.thehindu.com/news/national/karnataka/vachana-site-gets-more-than-5-lakh-hits/article5733383.ece)
 - [Prajavani](https://www.prajavani.net/article/%E0%B2%85%E0%B2%A8%E0%B2%BF%E0%B2%B0%E0%B3%8D%E0%B2%B5%E0%B2%9A%E0%B2%A8-%E0%B2%87-%E0%B2%A8%E0%B2%BF%E0%B2%B0%E0%B3%8D%E0%B2%B5%E0%B2%9A%E0%B2%A8)
 - [Economic Times](https://economictimes.indiatimes.com/magazines/panache/now-read-vachanas-online/articleshow/45611801.cms)
 - [Wikimedia](https://diff.wikimedia.org/2014/03/12/11th-century-kannada-literature-to-enrich-wikisource/)
 
+These projects contributed to large-scale digitization of Kannada literature and open knowledge initiatives.
+
+---
+
+## 📊 Data & AI Exploration
+
+- Kaggle: https://www.kaggle.com/devudilip  
+- Exploring model evaluation, data pipelines & experimentation workflows  
+
+---
+
+## 🛠 Core Stack
+
+**Languages**  
+Ruby on Rails • JavaScript / TypeScript • Go(Entry Level) • Rust(exploring) • Move(exploring)  
+
+**AI / Agent Stack**  
+LLM orchestration • Tool-based agents • Context engineering • Automation pipelines  
+
+**Infra**  
+AWS • Docker • CI/CD • Distributed observability systems  
+
+---
+
+## 🎯 Engineering Philosophy
+
+- Build systems, not features  
+- Instrument everything  
+- Design for scale from day one  
+- AI should augment engineers, not replace thinking  
+
 ---
 
 ## 📢 Connect With Me
 
-<p>
-  <a href="https://twitter.com/devudilip">
-    <img src="https://img.shields.io/twitter/follow/devudilip?style=social" alt="Twitter">
-  </a>
-  <a href="https://www.linkedin.com/in/devudilip/">
-    <img src="https://img.shields.io/badge/-devudilip-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/devudilip">
-    <img src="https://img.shields.io/github/followers/devudilip?label=Follow&style=social" alt="GitHub">
-  </a>
-  <a href="https://stackoverflow.com/users/955134/devudilip">
-    <img src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" style="height: 30px;" alt="StackOverflow">
-  </a>
-</p>
+Twitter: https://twitter.com/devudilip  
+LinkedIn: https://www.linkedin.com/in/devudilip/  
+GitHub: https://github.com/devudilip  
+StackOverflow: https://stackoverflow.com/users/955134/devudilip 
+
+---
+
+> “Build systems that outlive you.”
