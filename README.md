@@ -15,7 +15,7 @@ Building Protocol-Level Systems • Designing Agentic Architectures • Scaling 
 I’m a Technology Leader with **14+ years of experience** building scalable backend systems, distributed architectures, and blockchain infrastructure.
 
 Currently:
--  Technology Lead at SnowBall Finance  
+-  Technology Lead(Acting CTO) at SnowBall Finance  
 -  Building production AI agents 
 -  Designing custom skills, orchestration layers & execution pipelines  
 -  Co-Founder (2023–2025) at EtherScale – Rollup-as-a-Service Infra  
