@@ -110,7 +110,7 @@ These projects contributed to large-scale digitization of Kannada literature and
 ## 🛠 Core Stack
 
 **Languages**  
-Ruby on Rails • JavaScript / TypeScript • Go(Entry Level) • Rust(exploring) • Move(exploring)  
+Ruby on Rails • JavaScript / TypeScript • Go(Entry Level) • Rust(exploring)  
 
 **AI / Agent Stack**  
 LLM orchestration • Tool-based agents • Context engineering • Automation pipelines  
