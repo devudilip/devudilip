@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hello Namaskaara, I am Devaraj K (Devu)</h1>
 
 <p align="center">
-Principal Engineer | Blockchain/web3 Infrastructure | AI Agent Architect | Distributed Systems
+Engineer | Blockchain/web3 Infrastructure | AI Agent Architect | Distributed Systems
 </p>
 
 <p align="center">
